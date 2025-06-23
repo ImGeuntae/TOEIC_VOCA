@@ -10,16 +10,16 @@
 | business trip | phr | 출장 |
 | come over | phr | 방문하다, 오다 |
 | counter | n | 계산대 |
-| | adj 반대의 |
+| | adj | 반대의 |
 | e-mail | n | 이메일 |
-| | v 이메일을 보내다 |
+| | v | 이메일을 보내다 |
 | filing cabinet | phr | 서류 정리 캐비닛 |
 | folder | n | 서류철 |
 | headache | n | 두통 |
 | internship | n | 인턴 신분, 인턴 기간 |
 | redo | v | 다시 하다 |
 | routine | n | 판에 박힌 일 |
-| | adj 정기적인 |
+| | adj | 정기적인 |
 | table lamp | phr | 탁상 전기스탠드 |
 | thanks to | phr | ~ 덕택에 |
 | timetable | n | 시간표 |
@@ -30,10 +30,10 @@
 | 단어 | 품사 | 뜻 |
 |------|------|-----|
 | chief | adj | 주된, (직급상) 최고위자인 |
-| | n (단체의) 최고위자 |
+| | n | (단체의) 최고위자 |
 | conceal | v | 감추다 |
 | correct | adj | 맞는 |
-| | v 정정하다 |
+| | v | 정정하다 |
 | economic | adj | 경제의 |
 | embrace | v | 받아들이다, 포용하다 |
 | expected | adj | 예상되는 |
@@ -145,7 +145,7 @@
 | compartment | n | 구획, 칸막이 |
 | give way to | phr | ~에게 양보하다 |
 | overwork | n | 과로 |
-| | v 과로하다 |
+| | v | 과로하다 |
 | put down | phr | ~을 내려놓다, ~을 적다 |
 | reach the solution | phr | 해결하다 |
 | recharge | v | 재충전하다 |
