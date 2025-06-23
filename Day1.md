@@ -13,7 +13,7 @@
 | graduation | n | 졸업 |
 | in fact | phr | 사실은 |
 | job fair | phr | 취업 박람회 |
-| job offer | phr | 입사리 제안 |
+| job offer | phr | 일자리 제안 |
 | list | n | 목록, 명단 |
 |  | v | 목록에 기입하다 |
 | newcomer | n | 새로 온 사람, 신입사원 |
@@ -37,7 +37,7 @@
 | employ | v | 고용하다 |
 | insufficient | adj | 불충분한 |
 | minimum | n | 최소한도 |
-|  | adj | 최소의 |
+|  | adj | 최소한의 |
 | party | n | 단체, 당사자, 연회 |
 | plentiful | adj | 풍부한 |
 | profession | n | 직업 |
@@ -122,7 +122,7 @@
 | make a point of -ing | phr | 반드시 ~하다 |
 | manpower | n | 인력 |
 | master's degree | phr | 석사 학위 |
-| novice | n | 초보자, 무경험자 |
+| novice | n | 풋내기, 무경험자 |
 | paycheck | n | 급료, 급료 지불 수표 |
 | self-motivation | n | 자기 동기부여 |
 | send a notification | phr | 통지서를 보내다 |
@@ -144,7 +144,7 @@
 | not to mention | phr | ~은 말할 것도 없고 |
 | on occasion | phr | 때때로 |
 | overqualified | adj | 필요 이상으로 교육을 받은 |
-| screening | n | 심사, 선별 |
+| screening | n | 심사, 선발 |
 
 ### Part 5, 6
 
@@ -155,7 +155,7 @@
 | oriented | adj | ~을 지향하는 |
 | pertaining to | phr | ~에 관계된 |
 | questionably | adv | 의심스럽게 |
-| regularity | n | 정기적임 |
+| regularity | n | 규칙성, 정기적임, 일정함 |
 | replenish | v | 다시 채우다, 보충하다 |
 | simplicity | n | 간단함 |
 | stellar | adj | 뛰어난, 별의 |
@@ -167,7 +167,7 @@
 |------|------|-----|
 | adept | adj | 능숙한 |
 | against all odds | phr | 모든 역경을 딛고 |
-| command | n | (언어) 구사력, 명령, 지휘력 |
+| command | n | (언어) 구사력, 명령, 지배력 |
 | commensurate | adj | 비례한, 액수가 상응하는 |
 | computer literate | phr | 컴퓨터 사용 기술을 가진 |
 | eagerness | n | 열의 |
@@ -185,8 +185,9 @@
 ---
 
 ## 참고사항
-- **phr** = phrase (구)
-- **n** = noun (명사)
 - **v** = verb (동사)
+- **n** = noun (명사)
 - **adj** = adjective (형용사)
 - **adv** = adverb (부사)
+- **prep** = preposition (전치사)
+- **phr** = phrase (어구)
