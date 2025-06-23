@@ -1,4 +1,4 @@
-# 토익 완성 단어 - 규칙·법률
+# 토익 완성 단어 - 규칙・법률
 
 ## 토익 기초 단어
 
@@ -28,7 +28,7 @@
 | dress | n | 의복 |
 |  | v | 옷을 차려입다 |
 | enough | adj | 충분한 |
-|  | n | 필요한 만큼의 수·양 |
+|  | n | 필요한 만큼의 수・양 |
 | finish | v | 끝내다, 완료하다 |
 | have a problem (in) -ing | phr | ~하는 데 문제가 있다 |
 | large | adj | 큰, 넓은 |
@@ -97,7 +97,7 @@
 | on-site | adj | 현장의, 현지의 |
 |  | adv | 현장에서, 현지에서 |
 | penalty | n | 벌금 |
-| pointed | adj | (말·표현 등이) 예리한, 날카로운 적절한 |
+| pointed | adj | (말・표현 등이) 예리한, 날카로운 적절한 |
 | precious | adj | 귀중한 |
 | principle | n | 원리, 원칙 |
 | punishment | n | 형벌, 처벌 |
