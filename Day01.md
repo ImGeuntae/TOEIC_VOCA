@@ -11,7 +11,7 @@
 #### **`n`** 공석, 결원; 개장, 개시
 > There are several job **openings** at the restaurant right now.  
 > (현재 그 식당에는 일자리가 몇 개 있다.)  
-
+>
 > JX Finances officially announced the **opening** of its first international branch.  
 > (JX Finances사는 첫 번째 해외 지점 개장을 공식적으로 발표했다.)
 #### 💡 토익 포인트
@@ -82,7 +82,7 @@
 #### **`n`** 확신, 자신; 신임
 > We have **confidence** that she can handle the position.  
 > (우리는 그녀가 그 직책을 수행할 수 있다고 확신한다.)  
-
+>
 > The recommendations showed **confidence** in his abilities.  
 > (그 추천서들은 그의 능력에 대한 신임을 보여 주었다.)
 #### 💡 토익 포인트
@@ -143,7 +143,7 @@
 #### **`n`** 추천서; 참고
 > Philip asked his previous employer to write a **reference** letter for him.  
 > (Philip은 그의 이전 상사에게 추천서를 써 달라고 부탁했다.)  
-
+>
 > The database contains **reference** material on all aspects of labor law.  
 > (그 데이터베이스는 노동법 전반에 대한 참고 자료를 포함하고 있다.)
 
