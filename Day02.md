@@ -1,3 +1,225 @@
+# 핵심 빈출 단어 - 규칙・법률
+
+## **1. attire** ★★
+#### **`n`** 복장, 옷차림새
+> Professional business **attire** is required of all staff giving presentations.  
+> 발표를 하는 모든 직원들은 정장을 입어야 한다.
+
+---
+
+## **2. code** ★
+#### **`n`** 규범, 관례; 암호
+> Employees are expected to follow the dress **code**.  
+> 직원들은 복장 규범에 따르도록 요구된다.
+
+---
+
+## **3. concern** ★★★
+#### **`n`** 우려, 걱정; 문제, 일
+> The board voiced **concerns** about safety at the meeting.  
+> 이사회는 회의에서 안전에 대한 우려를 표명했다.
+>
+> Members violating rules have become a **concern** for club management.  
+> 규칙을 어기는 회원들이 클럽 경영진에게 문제가 되었다.
+#### **`v`** ~을 걱정스럽게 하다; 영향을 미치다, 관련되다
+> Citizens are **concerned** about the new trade protocol.  
+> 시민들은 새로운 무역 협약에 대해 걱정스러워한다.
+>
+> The recent work hour change will not **concern** the design department.  
+> 최근의 근무 시간 변경은 디자인 부서에는 영향을 미치지 않을 것이다.
+#### 💡 토익 포인트
+`concern + about/over` : ~에 대한 우려, 걱정  
+`questions concerning` : ~에 관한 질문
+> `concern`과 함께 쓰이는 전치사 `about`, `over`를 묶어서 알아두자. `question`과 어울리는 전치사 `concerning`(~에 관한)을 묻는 문제도 출제된다.  `concerning`은 `about`, `regarding`과 같은 의미이다.
+>
+> `concern`은 명사로 사용되어 문제, 일 등을 의미할 때는 `matter`로, 동사로서 걱정하게 하다라는 의미로 사용될 때는 `worry`로, 상황이나 행동이 누구에게 영향을 미치다라는 의미로 쓰일 때는 `involve`로 바꿔 쓸 수 있다.
+
+---
+
+## **4. policy** ★
+#### **`n`** 규정; 보험 증권
+> The employee benefit **policy** will be expanded next year.  
+> 직원 복지 규정은 내년에 확대될 것이다.
+>
+> Companies must distribute health insurance **policies** to all workers.  
+> 기업들은 모든 직원들에게 건강 보험 증권을 배부해야 한다.
+
+---
+
+## **5. comply** ★★
+#### **`v`** 준수하다, 따르다
+> Employees must **comply** with the regulations governing computer use.  
+> (직원들은 컴퓨터 사용 관리 규정을 준수해야 한다.)
+#### 💡 토익 포인트
+`comply` vs `observe` vs `obey` vs `fulfill`
+> 따르다'라는 의미를 가진 단어들의 용례 차이를 구별해 두자.
+>
+> - `comply with` : (규칙, 요구 등을) 준수하다, 따르다  
+>   `comply`는 자동사이므로 전치사 `with`와 같이 써야 한다.  
+>
+> - `observe` : (규칙 등을) 준수하다, ~을 관찰하다  
+>   타동사이므로 전치사 없이 바로 목적어가 온다.  
+>
+>   All operators of machinery must **observe** the safety guidelines.  
+> 모든 기계 조작자들은 안전 지침을 준수해야 한다.
+>
+> - `obey` : (지시에) 따르다, (사람에게) 복종하다  
+>   타동사이며 사람에게 복종한다는 뉘앙스가 강하다.
+>
+>   Staff must **obey** the director's specific requests.  
+> 직원들은 이사의 구체적인 요구 사항에 따라야 한다.
+>
+> - `fulfill` : (조건을) 충족시키다  
+>   타동사이며 주어진 조건을 충족시킨다는 뉘앙스가 강하다.  
+>
+>   Staff are urged to **fulfill** their job requirements in a timely manner.  
+> 직원들은 적시에 각자의 직무 요건을 충족시킬 것이 권장된다.
+
+---
+
+## **6. regulation** ★
+#### **`n`** 규정
+> **Regulations** regarding lunch breaks were established.  
+> 점심시간에 관한 규정이 세워졌다.
+#### 💡 토익 포인트
+`safety regulations` : 안전 규정  
+`customs regulations` : 관세 규정
+> 규정'은 보통 어떤 조항의 규칙들이 모여서 이루어지기 때문에 복수형 `regulations`로 사용한다.
+
+---
+
+## **7. exception** ★
+#### **`n`** 예외
+> Management decided not to make any **exceptions** to the rules.  
+> 경영진은 규칙에 어떤 예외도 두지 않기로 결정했다.
+#### 💡 토익 포인트
+`with the exception of` : ~을 제외하고  
+`with very few exceptions` : 거의 예외 없이
+> 전치사 `with`를 묻는 문제로 주로 출제된다.
+
+---
+
+## **8. adhere** ★
+#### **`v`** 지키다, 고수하다
+> All staff should do their best to **adhere** to the company's policies.  
+> 모든 직원들은 회사 규정을 지키기 위해 최선을 다해야 한다.
+#### 💡 토익 포인트
+`adhere to + policies/rules/standards` : 정책/규칙/기준을 지키다
+> `adhere`는 '지키다'라는 의미의 자동사로, 뒤에 전치사 to를 써야 한다.
+
+---
+
+## **9. severely** ★
+#### **`adv`** 엄격하게, 심하게
+> Those who share company data with outside parties will be **severely** punished.  
+> 회사 자료를 외부인과 공유하는 사람은 엄격히 처벌될 것이다.
+
+---
+
+## **10. refrain** ★
+#### **`v`** 자제하다, 삼가다
+> Guards should **refrain** from making personal calls during a shift.  
+> 경비 요원들은 근무 시간 동안 개인적인 전화를 하는 것을 자제해야 한다.
+#### 💡 토익 포인트
+`refrain from` : ~을 자제하다
+> `refrain`은 자동사이므로, 전치사 from이 있어야 한다.
+
+---
+
+## **11. permission** ★★★
+#### **`n`** 허락, 허가
+> The CEO gave managers **permission** to hold a weekend workshop.  
+> 최고 경영자는 관리자들에게 주말 워크숍을 열도록 허락했다.
+
+---
+
+## **12. access** ★★★
+#### **`n`** 이용 권한, 접근; 통로
+> Only authorized personnel may gain **access** to client files.  
+> 오직 허가된 직원만 고객 파일 이용 권한을 얻을 수 있다.
+>
+> There is direct **access** to the subway near our new office.  
+> 새 사무실 근처에 지하철로 곧장 이어지는 통로가 있다.
+#### **`v`** ~에 접근하다, 도달하다
+> Click on the link to **access** the detailed job description.  
+> 상세한 직무 내용을 보시려면 링크를 클릭하세요.
+#### 💡 토익 포인트
+`have access to` : ~에 접근 권한을 가지고 있다  
+`access the documents` 문서를 열람하다
+> 명사 `access`는 전치사 `to`와 어구를 이루어 자주 출제된다. 하지만 동사 `access`는 타동사이므로 뒤에 전치사 `to`가 올 수 없다는 것을 꼭 기억해 두자.
+>
+`access` vs `approach`
+> 접근'을 의미하는 단어들의 용례 차이를 구별하는 문제로 출제된다.
+>
+> - `access` : 이용 권한, 접근  
+>   불가산 명사이므로 부정관사가 필요 없다.  
+>  
+> - `approach` : (학문 등에의) 접근법  
+>   가산 명사이므로 부정관사 `a(n)`를 써 주어야 한다. 
+>
+>   A new **approach** to web design has been introduced.  
+>   새로운 웹 디자인 접근법이 소개되었다.
+
+---
+
+## **13. thoroughly** ★★★
+#### **`adv`** 철저하게; 완전히, 대단히
+> Please read the user manual **thoroughly** before installing this software.  
+> 이 소프트웨어를 설치하기 전에 사용자 설명서를 철저히 읽어 보시기 바랍니다.
+>
+> The staff was **thoroughly** impressed with the new health insurance policy.  
+> 직원들은 새로운 건강 보험 제도에 완전히 감동했다.
+
+---
+
+## **14. revise** ★★★
+#### **`v`** (의견・계획을) 수정하다, 변경하다
+> The office's policies regarding vacations have been **revised**.  
+> 휴가와 관련된 사무실 규정이 수정되었다.
+
+---
+
+## **15. approach** ★★★
+#### **`n`** 접근법, 처리 방법
+> The manager has a strict **approach** to enforcing office regulations.  
+> 그 관리자는 사무실 규정을 시행하는 엄격한 접근법을 갖고 있다.
+#### **`v`** 다가오다, 가까워지다
+> Police **approached** carefully to arrest the suspect.  
+> 경찰은 용의자를 체포하기 위해 조심스럽게 다가왔다.
+
+---
+
+## **16. approval** ★★★
+#### **`n`** 승인, 인가
+> Please obtain the supervisor's **approval** before purchasing supplies.  
+> 비품을 구매하기 전에 관리자의 승인을 받으세요.
+#### 💡 토익 포인트
+`obtain approval (for)` : (~에 대한) 승인을 받다
+> `approval`은 동사 `obtain`과 주로 사용되며, 전치사 `for` 뒤에 승인 목적을 쓴다.
+
+---
+
+## **17. form** ★★★
+#### **`n`** 종류, 유형, 양식
+> Visitors are required to present a **form** of identification to security guards.  
+> 방문객들은 신분증 한 가지를 경비원에게 제시해야 한다.
+#### 💡 토익 포인트
+`a form of identification` : 신분증 한 가지
+> 미국에는 우리나라의 주민등록증 같은 국가 발행 신분증이 없고, 대신 운전 면허증 등 여러 `form`(양식)의 `identification`(신분증)이 사용된다. 따라서 신분증을 말할 때는 `a form of identification`(신분증 한 가지)이라고 말한다.
+
+---
+
+## **18. immediately** ★★★
+#### **`adv`** 즉시, 곧
+> Effective **immediately**, taxes will be automatically deducted from each paycheck.  
+> 즉시 발효되는 것으로, 세금이 매 급여에서 자동 공제될 것입니다.
+#### 💡 토익 포인트
+`immediately after` : 직후  
+`immediately upon arrival` : 도착 즉시
+> `immediately`는 `after`나 `upon arrival`과 같은 시간 표현과 어울려 자주 사용된다.
+
+---
+
 # 토익 완성 단어 - 규칙・법률
 
 ## 토익 기초 단어
