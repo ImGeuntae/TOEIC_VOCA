@@ -220,6 +220,218 @@
 
 ---
 
+## **19. inspection** ★★★
+#### **`n`** 점검, 검사
+> The facility **inspection** should be conducted at least once a month.  
+> 시설 점검은 적어도 한 달에 한 번 진행되어야 한다.
+
+---
+
+## **20. arrangement** ★★★
+#### **`n`** 준비, 마련, 주선
+> The manager made **arrangements** for purchase of new machinery.  
+> 그 관리자는 새 장비 구입을 준비했다.
+#### 💡 토익 포인트
+`make arrangements to do` : ~할 준비하다  
+`make arrangements for` : ~의 준비를 하다
+> `arrangement`는 동사 `make`와 함께 쓰여 '준비하다'라는 의미로 자주 사용되는데, 이때 복수형인 `arrangements`를 쓴다는 것을 유의해 두자.
+
+---
+
+## **21. procedure** ★★★
+#### **`n`** 절차
+> The **procedure** for patent applications is outlined on the APTO Web site.  
+> 특허 신청 절차는 APTO 웹사이트에 요약되어 있다.
+
+---
+
+## **22. negative** ★★★
+#### **`adj`** 부정적인, 비관적인
+> The new vacation policy received **negative** feedback from the employees.  
+> 새로운 휴가 정책은 직원들로부터 부정적인 의견을 받았다.
+
+---
+
+## **23. mandate** ★★★
+#### **`v`** 명령하다, 지시하다
+> The board of directors has **mandated** an increase for research funding.  
+> 이사회는 연구 자금 지원을 늘리라고 명령했다.
+#### **`n`** 권한, 지시, 명령
+> Congress gave the committee a **mandate** to make budget cuts.  
+> 의회는 위원회에 예산을 삭감하는 권한을 주었다.
+
+---
+
+## **24. effect** ★★★
+#### **`n`** (법률 등의) 효력, 효과, 영향
+> The incentive policy will be in **effect** starting next week.  
+> 상여금 규정은 다음 주부터 효력이 있을 것이다.
+#### **`v`** 결과로서 ~을 가져오다
+> He **effected** a sudden change in the company's expansion plan.  
+> 그는 회사의 확장 계획에 갑작스러운 변화를 가져왔다.
+#### 💡 토익 포인트
+`in effect` : (법률 등이) 효력 있는, 실시된  
+`come into effect` : 실시되다, 발효되다  
+`take effect` : (법의) 효력이 나타나다, 시행되다  
+`have an effect on` : ~에 영향을 미치다  
+`secondary effect` : 부수적 효과
+> `effect`는 관용 표현으로 많이 출제되므로 출제 표현을 잘 기억해 두어야 한다.  
+
+법이나  규정이 실행되어 실제로 현실에 적용됨을 의미하는 관용 표현 `put into effect`는 `apply`로 바꾸어 쓸 수 있다.
+
+---
+
+## **25. drastically** ★★
+#### **`adv`** 심하게, 과감하게, 철저하게
+> Fines for breaking rules have been **drastically** increased.  
+> 규칙 위반에 대한 벌금이 심하게 인상되었다.
+
+---
+
+## **26. according to** ★★
+#### **`phr`** ~에 따라
+> All transactions must be handled **according to** the guidelines.  
+> 모든 거래는 지침에 따라 처리되어야 한다.
+
+---
+
+## **27. enable** ★★
+#### **`v`** (무엇을) 가능하게 하다
+> Jenny's promotion **enabled** her to participate in the board meeting.  
+> Jenny의 승진은 그녀가 이사회 회의에 참석하는 것을 가능하게 했다.
+
+---
+
+## **28. standard** ★★
+#### **`n`** 기준, 표준
+> The company must make changes to the current safety **standards**.  
+> 그 회사는 현행 안전 기준을 변경해야 한다.
+
+---
+
+## **29. constant** ★★
+#### **`adj`** 지속적인, 끊임없이 계속하는
+> The store received **constant** inquiries about its new return policy.  
+> 그 상점은 새로운 반품 규정에 대해 지속적인 문의를 받았다.
+
+---
+
+## **30. act** ★★
+#### **`n`** 법령, 결의서; 행위, 행동
+> The new **act** makes it easier to file personal income tax forms online.  
+> 새로운 법령은 온라인으로 개인 소득세 신고서를 제출하는 것을 더 쉽게 만든다.
+
+> The **act** of merging with another company is complicated and takes a lot of time.  
+> 또 다른 회사와 합병하는 행위는 복잡하고 많은 시간이 걸린다.
+#### **`v`** 결정하다, 판결을 내리다; 행동하다
+> A lawyer always **acts** on behalf of his clients.  
+> 변호사는 항상 그 자신의 고객을 위하여 결정을 내린다.
+
+---
+
+## **31. compensation** ★★
+#### **`n`** 보상금, 보상
+> Employees will receive **compensation** based on their performance and evaluation.  
+> 직원들은 그들의 실적과 평가를 바탕으로 보상금을 받을 것이다.
+
+#### 💡 토익 포인트
+`compensation for` : ~에 대한 보상
+> `compensation`과 함께 쓰이는 전치사 `for`를 묶어서 외워 두자.
+
+---
+
+## **32. ban** ★★
+#### **`n`** 금지
+> The government placed a **ban** on carrying a large volume of liquid on board a plane.  
+> 정부는 기내에 많은 양의 액체를 반입하는 것을 금지했다.
+#### **`v`** 금지하다
+> The company **banned** the use of the Internet for personal purposes.  
+> 회사는 개인적인 목적을 위한 인터넷 사용을 금지했다.
+
+---
+
+## **33. obligation** ★★
+#### **`n`** 의무, 책임
+> All researchers have an **obligation** to publish at least one paper every year.  
+> 모든 연구원들은 매년 적어도 한 편의 논문을 게재할 의무가 있다.
+
+---
+
+## **34. authorize** ★
+#### **`v`** ~을 인가하다, 권한을 부여하다
+> Allocations of funds must be **authorized** by management.  
+> 자금 할당은 경영진에 의해 인가되어야 한다.
+#### 💡 토익 포인트
+`an authorized service center` : 공인된 서비스 센터  
+`unauthorized reproduction` : 불법 복제
+> `unauthorized`(허가받지 않은)는 자주 출제되므로 함께 암기해 두자.
+
+---
+
+## **35. prohibit** ★
+#### **`v`** 금지하다
+> The museum **prohibits** visitors from taking pictures.  
+> 그 박물관은 방문객들의 사진 촬영을 금지한다.
+#### 💡 토익 포인트
+`prohibit A from -ing` : A가 ~하는 것을 금지하다  
+`forbid A to from-ing/to do` : A가 ~하는 것을 금지하다
+> '금지하다'라는 의미의 `prohibit`과 `forbid`는 뜻은 같지만 활용 패턴이 다르다. `prohibit`은 목적어 다음에 `from -ing` 형태가 오는 반면, `forbid`는 `from -ing` 형태도 올 수 있고 `to` 부정사 구문도 올 수 있다는 것에 유의하자.
+
+---
+
+## **36. abolish** ★
+#### **`v`** (제도·법률 등을) 폐지하다
+> Congress decided to **abolish** taxes on imported fruit.  
+> 의회는 수입 과일에 대한 세금을 폐지하기로 결정했다.
+
+---
+
+## **37. enforce** ★
+#### **`v`** (법률을) 시행하다, 집행하다
+> All departments must **enforce** the no smoking policy.  
+> 모든 부서가 금연 규정을 시행해야 한다.
+#### 💡 토익 포인트
+`enforce regulations` : 규정을 시행하다
+> `enforce`는 법령, 규칙 등을 의미하는 명사와 어울려 출제된다.
+
+---
+
+## **38. habit** ★
+#### **`n`** 습관, 버릇
+> Setting goals should be a regular **habit**.  
+> 목표 설정은 규칙적인 습관이 되어야 한다.
+#### 💡 토익 포인트
+`habit : convention`
+> '습성'을 뜻하는 단어들의 용례 차이를 구별하는 문제로 출제된다.
+
+> `habit` : 습관, 버릇  
+> 개개인이 갖고 있는 버릇을 의미한다.
+
+> `convention` : 관례, 관습  
+> 공동체, 사회의 일반적인 관습을 의미한다.  
+>> Wearing a tie is a traditional corporate **convention**.  
+> 넥타이 착용은 전통적인 기업 관례다.
+
+---
+
+## **39. legislation** ★
+#### **`n`** 법률, 법규
+> The committee unanimously voted for the new export limitation **legislation**.  
+> 위원회는 새로운 수출 제한 법률에 만장일치로 찬성표를 던졌다.
+
+---
+
+## **40. restrict** ★
+#### **`v`** 한정하다, 제한하다
+> Access is **restricted** to authorized personnel.  
+> 출입은 허가된 직원에게로 한정됩니다. (관계자 외 출입금지)
+#### 💡 토익 포인트
+`restrict A to B` : A를 B로 한정하다  
+`lift/raise a restriction` : 제한을 풀다
+> 동사 `restrict`는 이용 권한 등을 일정 범위의 대상으로 한정할 때 사용하는 표현이다. 명사 `restriction`은 `lift`, `raise` 등 '풀다, 해제하다'라는 의미의 동사와 어울러 자주 출제된다.
+
+수량이나 범위 등에 제한을 두다라는 문맥에서 `restrict`는 `limit`로 바꾸어 쓸 수 있다.
+
 # 토익 완성 단어 - 규칙・법률
 
 ## 토익 기초 단어
@@ -417,3 +629,4 @@
 - **adv** = adverb (부사)
 - **prep** = preposition (전치사)
 - **phr** = phrase (어구)
+- **conj** = conjunction (접속사)
