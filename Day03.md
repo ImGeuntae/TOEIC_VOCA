@@ -628,3 +628,4 @@
 - **adv** = adverb (부사)
 - **prep** = preposition (전치사)
 - **phr** = phrase (어구)
+- **conj** = conjunction (접속사)
