@@ -648,3 +648,4 @@ explain 뒤에는 설명 내용이 오며 듣는 사람은 앞에는 꼭 `to`를
 - **adv** = adverb (부사)
 - **prep** = preposition (전치사)
 - **phr** = phrase (어구)
+- **conj** = conjunction (접속사)
