@@ -455,6 +455,8 @@
 > There will be another **showing** of this artist's work.  
 > 이 예술가의 작품 전시가 한 번 더 있을 것이다.
 
+---
+
 # 토익 완성 단어 - 여가・공동체
 
 ## 토익 기초 단어
