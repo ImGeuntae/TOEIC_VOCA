@@ -203,7 +203,7 @@
 > Mr. Kumar made a useful **suggestion** to help improve profit margins.  
 > Mr. Kumar는 수익 개선에 도움이 되는 유용한 제안을 했다.
 #### 💡 토익 포인트
-`suggestion` : `proposal`
+🏷️ `suggestion` : `proposal`
 > '제안'을 의미하는 단어들의 용례 차이를 구별해 두자.
 >- `suggestion` : 제안  
 >일반적인 제안의 의미이며 소극적인 제안일 때 쓰인다.
@@ -441,7 +441,7 @@
 > The argument was **irrelevant** to the topic.  
 > 그 주장은 논제와 관계가 없었다.
 #### 💡 토익 포인트
-`irrelevant` : `irrespective`
+🏷️ `irrelevant` : `irrespective`
 > '관계가 없는'이란 의미를 가진 단어들의 용례 차이를 구별하는 문제로 출제된다.
 >- `irrelevant to` : ~와 관계없는  
 > `irrelevant`는 대상과 관련성이 없다는 뜻이며 전치사 `to`와 함께 쓴다.
@@ -459,7 +459,7 @@
 > Due to time **constraints**, the policy change was not discussed.  
 > 시간제한으로 인해, 정책 변경은 논의되지 못했다.
 #### 💡 토익 포인트
-`constraint` : `inhibition`
+🏷️ `constraint` : `inhibition`
 > '억제'를 의미하는 단어들의 용례 차이를 구별하는 문제로 출제된다.
 >- `constraint` : 제한  
 > 하고자 하는 바가 상황에 의해 통제될 때 쓰인다.
