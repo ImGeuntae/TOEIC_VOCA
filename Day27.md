@@ -1,3 +1,363 @@
+# 핵심 빈출 단어 - 투자
+
+## **1. investment** ★★★
+#### **`n`** 투자, 투자금
+> Development of a new laptop will require a minimum **investment** of $250,000.  
+> 새로운 노트북 컴퓨터의 개발은 25만 달러의 최소 투자금을 필요로 한다.
+#### 💡 토익 포인트
+`investment` : 투자  
+`investor` : 투자자
+> 추상 명사 `investment`와 사람 명사 `investor`를 구별하는 문제로 출제된다.
+
+---
+
+## **2. lucrative** ★
+#### **`adj`** 수익성 있는, 돈벌이가 되는
+> The company scanned the market for **lucrative** investment opportunities.  
+> 그 회사는 수익성 있는 투자 기회를 찾기 위해 시장을 탐색했다.
+
+---
+
+## **3. inherently** ★
+#### **`adv`** 본질적으로
+> Stock market investment is considered **inherently** risky.  
+> 주식 시장 투자는 본질적으로 위험하다고 여겨진다.
+#### 💡 토익 포인트
+🏷️ '본질적으로'를 의미하는 `inherently`는 `essentially`로 바꾸어 쓸 수 있다.
+
+---
+
+## **4. secure** ★★★
+#### **`v`** 확보하다, 얻어 내다; 안전하게 지키다; 고정시키다
+> The retailer saved some money by **securing** favorable terms on a loan.  
+> 그 소매상은 대출에 대해 유리한 조건을 확보함으로써 약간의 돈을 절약했다.
+
+> Whatever is placed in your vault will be **secured** by multiple security systems.  
+> 귀하의 금고에 놓여 있는 것은 무엇이든지 다중 보안 시스템에 의해 안전하게 지켜질 것입니다.
+
+> Please make sure that your seatbelt is **secured** at all times.  
+> 귀하의 안전벨트가 항상 고정되어 있도록 해주시기 바랍니다.
+#### 💡 토익 포인트
+🏷️ `secure`는 무엇인가를 얻어 낸다는 것을 의미할 때 `obtain`으로,  
+잠금장치 등을 사용하여 단단히 고정시키는 것을 말할 때 `fasten`으로 바꾸어 쓸 수 있다.
+
+---
+
+## **5. foreseeable** ★★
+#### **`adj`** 예견할 수 있는
+> The recent financial losses were not **foreseeable**.  
+> 최근의 재정 손실은 예견할 수 없었다.
+
+> Oil companies have no expansion plans in the **foreseeable** future.  
+> 석유 회사들은 당분간 확장 계획을 가지고 있지 않다.
+#### 💡 토익 포인트
+`in the foreseeable future` : 당분간, 가까운 장래에  
+> `foreseeable`은 `in the foreseeable future` 형태로 자주 출제된다.
+
+---
+
+## **6. innate** ★
+#### **`adj`** 타고난
+> Mr. Rogers has an **innate** ability to predict market fluctuations.  
+> Mr. Rogers는 시장 변동을 예측하는 데 타고난 능력을 갖고 있다.
+
+---
+
+## **7. property** ★★★
+#### **`n`** 재산
+> All real estate transactions are liable for **property** tax.  
+> 모든 부동산 거래들은 재산세를 납입할 의무가 있다.
+
+---
+
+## **8. on behalf of** ★★★
+#### **`phr`** ~을 대신해서
+> The broker received authorization to sell shares **on behalf of** his client.  
+> 그 중개인은 고객을 대신해 주식을 매각할 수 있는 권한을 받았다.
+
+---
+
+## **9. lease** ★★★
+#### **`n`** 임대차 (계약)
+> Investors agreed to a 25-year **lease** on the office building.  
+> 투자자들은 사무실 건물에 대한 25년 임대차 계약에 동의했다.
+#### **`v`** 임대하다, 임차하다
+
+---
+
+## **10. sponsor** ★★★
+#### **`v`** 후원하다
+> Reed Bank **sponsored** a series of financial seminars.  
+> Reed 은행은 일련의 재무 세미나를 후원했다.
+#### **`n`** 후원자
+> The organizer kindly thanked the **sponsors** of the event.  
+> 주최자는 행사의 후원자들에게 진심으로 감사를 표했다.
+
+---
+
+## **11. propose** ★★★
+#### **`v`** 제안하다
+> Gould Capital **proposed** to fund Ms. Locke's venture.  
+> Gould Capital사는 Ms. Locke의 벤처 사업에 자금을 대는 것을 제안했다.
+
+---
+
+## **12. support** ★★★
+#### **`n`** 후원, 원조, 지지
+> The small business owner is seeking the **support** of investors.  
+> 그 소규모 사업주는 투자자의 후원을 구하고 있다.
+#### **`v`** 지원하다, 후원하다; 살게 하다, (생명・기력 등을) 유지하다
+> The museum is **supported** financially by several local companies.  
+> 그 박물관은 몇몇 지역 사업체들로부터 재정적으로 지원받는다.
+
+> Wildlife reserves **support** many different species of animals.  
+> 야생동물 보호구역은 여러 다양한 동물 종을 살게 한다.
+#### 💡 토익 포인트
+🏷️ `for one's continued support` : ~의 지속적인 성원에 대해  
+>`support`는 `for one's continued support` 형태로 지속적인 거래나 이용에 감사를 표하는 문맥으로 자주 출제된다.
+
+---
+
+## **13. distribution** ★★★
+#### **`n`** 분배, 배급
+> The **distribution** of profits will be announced to shareholders next week.  
+> 수익 분배는 다음 주에 주주들에게 공표될 것이다.
+
+---
+
+## **14. consider** ★★★
+#### **`v`** 고려하다
+> Before buying a property, it's important to **consider** the hidden expenses involved.  
+> 부동산을 매입하기 전에 관련된 잠재 비용을 고려하는 것이 중요하다.
+
+---
+
+## **15. nearly** ★★★
+#### **`adv`** 거의, 대략
+> The firm was operated so well that investors **nearly** doubled their money.  
+> 회사가 매우 잘 운영되어서 투자자들은 투자금을 거의 두 배로 만들었다.
+#### 💡 토익 포인트
+`nearly + 수치` : 거의 ~인  
+>`nearly`는 수치를 나타내는 표현과 어울려 시험에 자주 출제된다.  
+형태가 비슷하지만 뜻이 다른 `near`(가까이, 가까운)와 혼동하지 않도록 주의하자.
+
+---
+
+## **16. consent** ★★★
+#### **`n`** 동의, 허락
+> A sale of the business will require the **consent** of shareholders.  
+> 사업체의 매각은 주주들의 동의를 필요로 한다.
+#### 💡 토익 포인트
+🏷️ : `consent of` ~의 동의  
+>`consent`와 함께 쓰이는 전치사 `of`를 묶어서 기억해 두자.
+
+🏷️ 허가의 의미로 사용되는 `consent`는 `approval`이나 `permission`으로 바꾸어 쓸 수 있다.
+
+---
+
+## **17. gratitude** ★★★
+#### **`n`** 고마움, 감사
+> The CEO showed his **gratitude** to those who have stayed with the company from the beginning.  
+> 최고 경영자는 초창기부터 회사에 있었던 사람들에게 그의 고마움을 표했다.
+
+---
+
+## **18. consult** ★★
+#### **`v`** 상의하다, 상담하다
+> Unsure about whether to invest, Jacob **consulted** with his financial advisor.  
+> 투자할지 확실하지 않았기 때문에, Jacob은 자신의 재정 고문과 상의했다.
+#### 💡 토익 포인트
+`consult the manual` : 설명서를 참조하다  
+>`consult`는 '상의하다', '상담하다'라는 뜻으로 많이 알고 있지만 '참조하다', 참고하다'라는 뜻으로도 토익에 나오므로 함께 외워 두자.
+
+---
+
+## **19. advice** ★★
+#### **`n`** 조언, 충고
+> The bank provides its clients with **advice** on how to save more money.  
+> 그 은행은 고객들에게 더 많은 돈을 저축할 수 있는 방법에 대한 조언을 제공한다.
+
+---
+
+## **20. partially** ★★
+#### **`adv`** 부분적으로, 일부분은
+> Indigo Inc. will be **partially** funded by the sale of bonds.  
+> Indigo사는 채권의 매각을 통해 부분적으로 자금이 제공될 것이다.
+
+---
+
+## **21. evident** ★★
+#### **`adj`** 분명한, 명백한
+> The executives of Panta Ltd. are pleased at the **evident** interest shown in their public offering.  
+> Panta사의 임원들은 회사 주식 공모에 보여진 분명한 관심에 기뻐했다.
+
+---
+
+## **22. reliability** ★★
+#### **`n`** 신뢰도, 믿음직함
+> KTR's success is dependent on the **reliability** of its financial research analysis.  
+> KTR사의 성공은 회사의 재무 연구 분석에 대한 신뢰도에 달려 있다.
+
+---
+
+## **23. cautious** ★★
+#### **`adj`** 조심하는, 신중한
+> Analysts are **cautious** about recommending the troubled company's stocks.  
+> 분석가들은 문제가 많은 회사의 주식을 추천하는 것에 대해 조심한다.
+#### 💡 토익 포인트
+`cautiously optimistic` : 조심스럽게 낙관하는  
+`reenter the market cautiously` : 조심스럽게 시장에 재진출하다  
+>`cautious`는 `cautiously optimistic` 형태로 시험에 많이 출제된다.
+
+---
+
+## **24. insight** ★★
+#### **`n`** 식견, 통찰력
+> The feature article on Dunbar offered valuable **insight** into the company's operations.  
+> Dunbar사에 대한 특집 기사는 그 회사 경영에 대한 귀중한 식견을 제공했다.
+
+---
+
+## **25. portfolio** ★★
+#### **`n`** 포트폴리오, 투자 자산 구성
+> The advisor suggested that his client diversify her **portfolio**.  
+> 그 고문은 그의 고객에게 포트폴리오를 다양화해야 한다고 제안했다.
+
+---
+
+## **26. possible** ★★
+#### **`adj`** 가능한, 있음 직한
+> Cautious investors take every **possible** measure to prevent losses.  
+> 신중한 투자가들은 손실을 막기 위해 모든 가능한 조치를 취한다.
+#### 💡 토익 포인트
+`in any way possible` : 가능한 어떻게든  
+>`possible`은 명사를 뒤에서 꾸며 주는 형태로도 자주 사용된다.
+
+🏷️ `possible`(adj. 가능한)과 `possibility`(n. 가능성)의 품사 구별하기.
+
+---
+
+## **27. speculation** ★
+#### **`n`** 추측
+> Company shares fell amid growing **speculation** of bankruptcy.  
+> 파산에 대한 추측이 증가하는 가운데 회사 주식이 하락했다.
+#### 💡 토익 포인트
+`[widespread / growing + speculation]` : 널리 퍼져 있는 / 증가하는 추측  
+>`speculation`은 `widespread`, `growing` 등의 형용사와 어울려 출제된다.
+
+---
+
+## **28. solely** ★
+#### **`adv`** 전적으로
+> Their interest was **solely** in foreign investment.  
+> 그들의 관심은 전적으로 해외 투자에만 있었다.
+
+---
+
+## **29. entrepreneur** ★
+#### **`n`** 사업가
+> Rosedale Investments offers venture capital to young **entrepreneurs**.  
+> Rosedale Investments사는 젊은 사업가들에게 벤처 자금을 제공한다.
+
+---
+
+## **30. eventually** ★
+#### **`adv`** 결국, 마침내
+> Stocks are expected to stabilize **eventually**.  
+> 주식이 결국에는 안정될 것으로 예측된다.
+
+---
+
+## **31. shareholder** ★
+#### **`n`** 주주
+> **Shareholders** can now gain access to updated financial reports on the company's Web site.  
+> 주주들은 이제 회사 웹사이트에서 갱신된 재정 보고서를 볼 수 있다.
+
+---
+
+## **32. outlook** ★
+#### **`n`** 전망
+> The **outlook** for financial markets is positive.  
+> 금융 시장의 전망은 밝다.
+
+---
+
+## **33. stability** ★
+#### **`n`** 안정, 안정성
+> Sound economic policies are essential for long-term **stability**.  
+> 견고한 경제 정책들이 장기적인 안정을 위해 꼭 필요하다.
+
+---
+
+## **34. bond** ★
+#### **`n`** 채권
+> The government issued public **bonds** to raise money for infrastructure projects.  
+> 정부는 기반 시설 사업 자금을 모으기 위해 공모 채권을 발행했다.
+
+---
+
+## **35. depreciation** ★
+#### **`n`** 가치 하락, 화폐의 구매력 저하
+> Due to the currency **depreciation**, many investors experienced a loss.  
+> 화폐 가치 하락으로 인해 많은 투자가들이 손해를 입었다.
+
+---
+
+## **36. increasing** ★
+#### **`adj`** 증가하는
+> **Increasing** market pressure led banks to decrease lending rates.  
+> 증가하는 시장 압박은 은행들이 대출 금리를 인하하도록 만들었다.
+#### 💡 토익 포인트
+`increasing amount of information` : 증가하는 정보량  
+`increasing market pressure` : 증가하는 시장 압력  
+>`increasing`은 `amount`, `pressure` 등 양과 관련된 명사와 주로 출제된다.
+
+---
+
+## **37. prevalent** ★
+#### **`adj`** 유행하고 있는, 널리 퍼진
+> Analysts watch the most **prevalent** trends in the market.  
+> 분석가들은 시장에서 가장 유행하고 있는 경향을 주시한다.
+#### 💡 토익 포인트
+🏷️ `prevalent` : `leading`  
+>'주도적인'을 뜻하는 단어들의 용례 차이를 구별하는 문제로 출제된다.
+>- `prevalent` : 널리 퍼진  
+>어떤 상태나 관행 등이 널리 퍼져 유행하고 있다는 의미이다.
+
+>- `leading` : 주요한, 선도하는  
+>특정 분야에서 가장 주요하거나 뛰어나다는 뜻이다.
+>
+>   Corruption is a **leading** cause of economic instability in the region.  
+>부패는 그 지역의 경제 불안정의 주요인이다.
+
+🏷️ 널리 보급된 것을 의미할 때 `prevalent`는 `widespread` 또는 `popular`와 바꾸어 쓸 수 있다.
+
+---
+
+## **38. rapid** ★
+#### **`adj`** 빠른, 신속한
+> Utility companies have been growing at a **rapid** rate in suburban areas.  
+> 공익 기업들이 교외 지역에서 빠른 속도로 성장하고 있다.
+#### 💡 토익 포인트
+`rapid + [rate / increase / decline / growth / change]` : 빠른 속도 / 증가 / 감소 / 성장 / 변화  
+>`rapid`는 속도 및 증감을 나타내는 명사와 어울려 자주 출제된다.
+
+---
+
+## **39. unprecedented** ★
+#### **`adj`** 전례 없는
+> Housing prices in the region rose an **unprecedented** 50 percent in just six months.  
+> 그 지역의 주택 가격이 6개월 만에 50퍼센트라는 전례 없는 상승을 보였다.
+
+---
+
+## **40. yield** ★
+#### **`v`** (이윤을) 가져오다, 산출하다
+> Our investments for the past fiscal year **yielded** returns exceeding 100 percent.  
+> 지난 회계 연도 동안의 우리의 투자는 100퍼센트를 넘는 이윤을 가져왔다.
+
+---
+
 # 토익 완성 단어 - 투자
 
 ## 토익 기초 단어
