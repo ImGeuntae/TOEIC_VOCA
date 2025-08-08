@@ -1,13 +1,13 @@
 # 핵심 빈출 단어 - 채용
 
-## **1. résumé** ***
+## **1. résumé** ★★
 #### **`n`** 이력서
 > Fax your **résumé** and cover letter to the above number.  
 > (위 번호로 이력서와 자기소개서를 팩스로 보내주세요.)
 
 ---
 
-## **2. opening** ***
+## **2. opening** ★★
 #### **`n`** 공석, 결원; 개장, 개시
 > There are several job **openings** at the restaurant right now.  
 > (현재 그 식당에는 일자리가 몇 개 있다.)  
@@ -23,7 +23,7 @@
 
 ---
 
-## **3. applicant** ***
+## **3. applicant** ★★★
 #### **`n`** 지원자, 신청자
 > **Applicants** are required to submit a résumé.  
 > (지원자들은 이력서를 제출해야 한다.)
@@ -37,7 +37,7 @@
 
 ---
 
-## **4. requirement** ***
+## **4. requirement** ★★★
 #### **`n`** 필요조건, 요건
 > A driver's license is a **requirement** of this job.  
 > (운전 면허증은 이 직업의 필요조건이다.)
@@ -47,7 +47,7 @@
 
 ---
 
-## **5. meet** ***
+## **5. meet** ★★★
 #### **`v`** (필요·요구 등을) 만족시키다
 > **Applicants** must **meet** all the requirements for the job.  
 > (지원자들은 그 직책의 모든 필요조건을 만족시켜야 한다.)
@@ -60,7 +60,7 @@
 
 ---
 
-## **6. qualified** ***
+## **6. qualified** ★★★
 #### **`adj`** 자격 있는, 적격의
 > People with master's degrees are **qualified** for the research position.  
 > (석사 학위를 갖춘 사람들은 연구직에 자격이 있다.)
@@ -71,14 +71,14 @@
 
 ---
 
-## **7. candidate** ***
+## **7. candidate** ★★★
 #### **`n`** 후보자, 지원자
 > Five **candidates** will be selected for final interviews.  
 > (5명의 후보자가 최종 면접을 위해 선발될 것이다.)
 
 ---
 
-## **8. confidence** **
+## **8. confidence** ★★
 #### **`n`** 확신, 자신; 신임
 > We have **confidence** that she can handle the position.  
 > (우리는 그녀가 그 직책을 수행할 수 있다고 확신한다.)  
@@ -95,7 +95,7 @@
 
 ---
 
-## **9. highly** ***
+## **9. highly** ★★★
 #### **`adv`** 매우, 대단히
 > Mr. Monroe's experience makes him **highly** qualified for the job.  
 > (Mr. Monroe의 경험이 그를 그 직업에 매우 자격이 있게 한다.)
@@ -105,7 +105,7 @@
 
 ---
 
-## **10. professional** ***
+## **10. professional** ★★★
 #### **`adj`** 전문적인, 직업의
 > Jeff is known as a **professional** photographer.  
 > (Jeff는 전문 사진가로 알려져 있다.)
@@ -115,7 +115,7 @@
 
 ---
 
-## **11. interview** ***
+## **11. interview** ★★★
 #### **`n`** 면접
 > The **interviews** are being held in meeting room three.  
 > (면접은 3번 회의실에서 이루어지고 있다.)
@@ -125,21 +125,21 @@
 
 ---
 
-## **12. hire** ***
+## **12. hire** ★★★
 #### **`v`** 고용하다
 > The company expects to **hire** several new employees next month.  
 > (회사는 다음 달에 신입사원 몇 명을 고용할 계획이다.)
 
 ---
 
-## **13. training** ***
+## **13. training** ★★★
 #### **`n`** 교육, 훈련
 > This company offers on-the-job **training** for new staff.  
 > (이 회사는 신입 사원들을 위한 현장 교육을 제공한다.)
 
 ---
 
-## **14. reference** ***
+## **14. reference** ★★★
 #### **`n`** 추천서; 참고
 > Philip asked his previous employer to write a **reference** letter for him.  
 > (Philip은 그의 이전 상사에게 추천서를 써 달라고 부탁했다.)  
@@ -149,7 +149,7 @@
 
 ---
 
-## **15. position** ***
+## **15. position** ★★★
 #### **`n`** 일자리, 직책
 > The advertised **position** provides health care and other benefits.  
 > (광고된 일자리는 의료 서비스와 다른 혜택들을 제공한다.)
@@ -163,7 +163,7 @@
 
 ---
 
-## **16. achievement** ***
+## **16. achievement** ★★★
 #### **`n`** 성취, 달성
 > List all of your **achievements** from previous jobs on your résumé.  
 > (이전 직장에서 이룬 모든 성취 사항들을 이력서에 기록하시오.)
@@ -174,7 +174,7 @@
 
 ---
 
-## **17. impressed** ***
+## **17. impressed** ★★★
 #### **`adj`** 인상 깊게 생각하는, 감명을 받은
 > The CEO was **impressed** by his assistant's organizing skills.  
 > (그 최고 경영자는 비서의 정리 능력을 인상 깊게 생각했다.)
@@ -185,14 +185,14 @@
 
 ---
 
-## **18. excellent** ***
+## **18. excellent** ★★★
 #### **`adj`** 훌륭한, 탁월한
 > Because of her **excellent** managerial skills, Erin was hired for the job.  
 > (그녀의 훌륭한 관리 능력 때문에, Erin은 그 일자리에 채용되었다.)
 
 ---
 
-## **19. eligible** **
+## **19. eligible** ★★
 #### **`adj`** 자격이 있는, 적격의
 > The part-time workers are also **eligible** for paid holidays.  
 > (시간제 근로자들도 유급 휴가를 받을 자격이 있다.)
@@ -209,14 +209,14 @@
 
 ---
 
-## **20. identify** **
+## **20. identify** ★★
 #### **`v`** 알아보다, 확인하다
 > Staff members wear uniforms so that they are easy for customers to **identify**.  
 > (직원들은 손님들이 쉽게 알아볼 수 있도록 제복을 입는다.)
 
 ---
 
-## **21. associate** **
+## **21. associate** ★★
 #### **`v`** 관련시키다
 > Two of the applicants were **associated** with a competitor.  
 > (지원자 중 두 명이 경쟁사와 관련되어 있었다.)
@@ -227,21 +227,21 @@
 
 ---
 
-## **22. condition** **
+## **22. condition** ★★
 #### **`n`** 조건
 > The **conditions** of employment are listed in the job opening notice.  
 > (고용 조건들은 채용 공고문에 열거되어 있다.)
 
 ---
 
-## **23. employment** **
+## **23. employment** ★★
 #### **`n`** 고용
 > The company announced **employment** opportunities in personnel department.  
 > (회사는 인사 부서에 고용 기회가 있음을 발표했다.)
 
 ---
 
-## **24. lack** \*\*
+## **24. lack** ★★
 #### **`v`** ~이 없다
 > Carl **lacked** the ability to get along well with his coworkers.  
 > (Carl은 동료들과 잘 지내는 능력이 없었다.)
@@ -251,7 +251,7 @@
 
 ---
 
-## **25. managerial** \*\*
+## **25. managerial** ★★
 #### **`adj`** 관리의
 > Mike is seeking a **managerial** position in the accounting field.  
 > (Mike는 회계 분야에서 관리직 자리를 찾고 있다.)
@@ -261,14 +261,14 @@
 
 ---
 
-## **26. diligent** \*\*
+## **26. diligent** ★★
 #### **`adj`** 성실한
 > Carmen is one of the most **diligent** workers in the company.  
 > (Carmen은 회사에서 가장 성실한 직원들 중 한 명이다.)
 
 ---
 
-## **27. familiar** \*\*
+## **27. familiar** ★★
 #### **`adj`** 익숙한, 친숙한
 > Staff must review the handbook to become **familiar** with it.  
 > (직원들은 익숙해지도록 안내서를 복습해야 한다.)
@@ -278,21 +278,21 @@
 
 ---
 
-## **28. proficiency** \*\*
+## **28. proficiency** ★★
 #### **`n`** 숙달, 능숙
 > Overseas workers need proof of **proficiency** in a second language.  
 > (해외 근로자들은 외국어 숙달에 관한 증거 자료가 필요하다.)
 
 ---
 
-## **29. prospective** \*\*
+## **29. prospective** ★★
 #### **`adj`** 장래의, 미래의
 > **Prospective** employees were asked to come in for a second interview.  
 > (장래의 직원들은 2차 면접을 보러 오라고 요청받았다.)
 
 ---
 
-## **30. appeal** \*\*
+## **30. appeal** ★★
 #### **`v`** 관심을 끌다, 매력적이다
 > The 10 percent pay increase **appealed** to the staff.  
 > (10퍼센트 임금 인상은 직원들의 관심을 끌었다.)
@@ -303,21 +303,21 @@
 
 ---
 
-## **31. specialize** \*\*
+## **31. specialize** ★★
 #### **`v`** ~을 전공하다, 전문적으로 다루다
 > Most of the programmers **specialized** in software design in college.  
 > (대부분의 프로그래머는 대학에서 소프트웨어 디자인을 전공했다.)
 
 ---
 
-## **32. apprehensive** \*\*
+## **32. apprehensive** ★★
 #### **`adj`** 걱정하는, 염려하는
 > Many people feel **apprehensive** before an important job interview.  
 > (많은 사람들은 중요한 면접 전에 걱정한다.)
 
 ---
 
-## **33. consultant** \*\*
+## **33. consultant** ★★
 #### **`n`** 고문, 컨설턴트
 > Emma currently works in London as an interior design **consultant**.  
 > (Emma는 현재 런던에서 인테리어 디자인 고문으로 일하고 있다.)
@@ -333,7 +333,7 @@
 
 ---
 
-## **34. entitle** \*
+## **34. entitle** ★
 #### **`v`** 자격을 주다
 > Executives are **entitled** to additional benefits.  
 > (임원들에게는 추가 혜택에 대한 자격이 주어진다.)
@@ -344,14 +344,14 @@
 
 ---
 
-## **35. degree** \*
+## **35. degree** ★
 #### **`n`** 학위
 > A bachelor's **degree** in engineering is a requirement for this position.  
 > (공학 학사 학위는 이 직책의 필요조건이다.)
 
 ---
 
-## **36. payroll** \*
+## **36. payroll** ★
 #### **`n`** 임금 대장, 급료 명부
 > Fifteen new employees were added to the **payroll** last month.  
 > (15명의 신입 사원이 지난달 임금 대장에 추가되었다.)
@@ -363,14 +363,14 @@
 
 ---
 
-## **37. recruit** \*
+## **37. recruit** ★
 #### **`v`** (신입 사원 등을) 모집하다
 > The firm **recruits** promising graduates on a yearly basis.  
 > (그 회사는 장래가 촉망되는 졸업자들을 매년 모집한다.)
 
 ---
 
-## **38. certification** \*
+## **38. certification** ★
 #### **`n`** 증명서, 증명
 > Obtaining accounting **certification** takes approximately a year.  
 > (회계 자격증을 취득하는 데는 대략 1년이 걸린다.)
@@ -381,7 +381,7 @@
 
 ---
 
-## **39. occupation** \*
+## **39. occupation** ★
 #### **`n`** 직업
 > Journalism is an interesting and challenging **occupation**.  
 > (보도직은 흥미로우면서도 도전적인 직업이다.)
@@ -392,7 +392,7 @@
 
 ---
 
-## **40. wage** \*
+## **40. wage** ★
 #### **`n`** 임금, 급료
 > Workers with formal education may earn higher **wages** than those without.  
 > (정식 교육을 받은 근로자들은 그렇지 않은 사람들보다 더 높은 임금을 받을 수 있다.)
