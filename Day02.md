@@ -18,13 +18,13 @@
 #### **`n`** 우려, 걱정; 문제, 일
 > The board voiced **concerns** about safety at the meeting.  
 > 이사회는 회의에서 안전에 대한 우려를 표명했다.
->
+
 > Members violating rules have become a **concern** for club management.  
 > 규칙을 어기는 회원들이 클럽 경영진에게 문제가 되었다.
 #### **`v`** ~을 걱정스럽게 하다; 영향을 미치다, 관련되다
 > Citizens are **concerned** about the new trade protocol.  
 > 시민들은 새로운 무역 협약에 대해 걱정스러워한다.
->
+
 > The recent work hour change will not **concern** the design department.  
 > 최근의 근무 시간 변경은 디자인 부서에는 영향을 미치지 않을 것이다.
 #### 💡 토익 포인트
@@ -40,7 +40,7 @@
 #### **`n`** 규정; 보험 증권
 > The employee benefit **policy** will be expanded next year.  
 > 직원 복지 규정은 내년에 확대될 것이다.
->
+
 > Companies must distribute health insurance **policies** to all workers.  
 > 기업들은 모든 직원들에게 건강 보험 증권을 배부해야 한다.
 
@@ -49,7 +49,7 @@
 ## **5. comply** ★★
 #### **`v`** 준수하다, 따르다
 > Employees must **comply** with the regulations governing computer use.  
-> (직원들은 컴퓨터 사용 관리 규정을 준수해야 한다.)
+> 직원들은 컴퓨터 사용 관리 규정을 준수해야 한다.
 #### 💡 토익 포인트
 `comply` vs `observe` vs `obey` vs `fulfill`
 > 따르다'라는 의미를 가진 단어들의 용례 차이를 구별해 두자.
@@ -137,7 +137,7 @@
 #### **`n`** 이용 권한, 접근; 통로
 > Only authorized personnel may gain **access** to client files.  
 > 오직 허가된 직원만 고객 파일 이용 권한을 얻을 수 있다.
->
+
 > There is direct **access** to the subway near our new office.  
 > 새 사무실 근처에 지하철로 곧장 이어지는 통로가 있다.
 #### **`v`** ~에 접근하다, 도달하다
@@ -166,7 +166,7 @@
 #### **`adv`** 철저하게; 완전히, 대단히
 > Please read the user manual **thoroughly** before installing this software.  
 > 이 소프트웨어를 설치하기 전에 사용자 설명서를 철저히 읽어 보시기 바랍니다.
->
+
 > The staff was **thoroughly** impressed with the new health insurance policy.  
 > 직원들은 새로운 건강 보험 제도에 완전히 감동했다.
 
@@ -380,7 +380,7 @@
 ---
 
 ## **36. abolish** ★
-#### **`v`** (제도·법률 등을) 폐지하다
+#### **`v`** (제도・법률 등을) 폐지하다
 > Congress decided to **abolish** taxes on imported fruit.  
 > 의회는 수입 과일에 대한 세금을 폐지하기로 결정했다.
 
@@ -403,13 +403,14 @@
 #### 💡 토익 포인트
 `habit : convention`
 > '습성'을 뜻하는 단어들의 용례 차이를 구별하는 문제로 출제된다.
-
-> `habit` : 습관, 버릇  
+>
+>- `habit` : 습관, 버릇  
 > 개개인이 갖고 있는 버릇을 의미한다.
-
-> `convention` : 관례, 관습  
-> 공동체, 사회의 일반적인 관습을 의미한다.  
->> Wearing a tie is a traditional corporate **convention**.  
+>
+>- `convention` : 관례, 관습  
+> 공동체, 사회의 일반적인 관습을 의미한다.
+>   
+>   Wearing a tie is a traditional corporate **convention**.  
 > 넥타이 착용은 전통적인 기업 관례다.
 
 ---
