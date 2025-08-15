@@ -41,17 +41,17 @@
 #### 💡 토익 포인트
 `division : category : compartment`
 > '구분'을 의미하는 단어들의 용법 차이를 구별하는 문제로 출제된다.  
-> - `division` : 부서  
->   회사나 관정의 부서
+>- `division` : 부서  
+> 회사나 관정의 부서
 >
-> - `category` : 부문  
->   비슷한 종류끼리 모여 만들어진 부문  
+>- `category` : 부문  
+> 비슷한 종류끼리 모여 만들어진 부문  
 >
 >   The manual is divided into several **categories**.  
 >   그 매뉴얼은 여러 부문으로 나누어져 있다.
 >
-> - `compartment` : 구획, 칸막이  
->   열차 내의 칸막이를 한 객실이나 물건 보관용 칸  
+>- `compartment` : 구획, 칸막이  
+> 열차 내의 칸막이를 한 객실이나 물건 보관용 칸  
 >
 >   Passengers are advised to keep their belongings in the overhead **compartment**.  
 >   승객들은 그들의 소지품을 머리 위의 짐칸에 보관하도록 권고된다.
@@ -105,7 +105,7 @@
 `submit A to B` : A를 B에게 제출하다
 > `submit`과 전치사 `to`가 모두 시험에 나온다.
 
-`submit a (résumé / receipt / recommendation / proposal)` : 이력서 / 영수증 / 추천서 / 제안서를 제출하다
+`submit a [résumé / receipt / recommendation / proposal]` : 이력서 / 영수증 / 추천서 / 제안서를 제출하다
 > `submit`은 `résumé`, `receipt`, `recommendation`, `proposal` 등 서류나 양식을 의미하는 명사와 어울려 자주 출제된다.
 
 ---
@@ -115,7 +115,7 @@
 > All regional branches report **directly** to the head office in Washington.  
 > 모든 지부들은 워싱턴에 있는 본사에 곧바로 보고한다.
 #### 💡 토익 포인트
-`(report / contact / call) + directly` : 곧바로 보고하다 / 연락하다 / 전화하다
+`[report / contact / call] + directly` : 곧바로 보고하다 / 연락하다 / 전화하다
 > `directly`는 `report`, `contact` 등 '보고하다' 및 '연락하다'라는 의미의 동사와 어울려 자주 출제된다.
 
 ---
@@ -125,7 +125,7 @@
 > Ms. Williams **reminded** Mr. Johnson of his lunch meeting.  
 > Ms. Williams는 Mr. Johnson에게 그의 점심 회의를 상기시켰다.
 #### 💡 토익 포인트
-`remind 사람 + of (내용 / that절)` : ~에게 ~을 상기시키다  
+`remind 사람 + of [내용 / that절]` : ~에게 ~을 상기시키다  
 `remind 사람 to do` : ~에게 ~하라고 일러주다  
 `be reminded to do` : ~할 것을 잊지 않도록 주의 받다
 > `remind`는 전치사 `of`나 `that`절, `to` 부정사 등과 함께 주로 사용된다. 수동태형 표현도 시험에 자주 등장하므로 빠짐없이 익혀 두자.
@@ -163,7 +163,7 @@
 #### 💡 토익 포인트
 `notify : announce : reveal`  
 >'알리다'라는 뜻을 가진 단어들의 용법 차이를 구별하는 문제로 출제된다.
-> - `notify 사람 + of (내용 / that절)` : (~에게) ~에 대해 통지하다  
+> - `notify 사람 + of [내용 / that절]` : (~에게) ~에 대해 통지하다  
 >   `notify` 뒤에는 사람 목적어가 온다.  
 >
 >   The manager **notified** some factory workers of the changed schedules.  
@@ -230,7 +230,7 @@
 > 새 의류 품목은 내년 초까지 출시할 준비가 될 것이다.
 #### 💡 토익 포인트
 `press release` : 보도 자료  
-`release date` :   발표일, (신제품 등의) 출시일, 개봉일
+`release date` : 발표일, (신제품 등의) 출시일, 개봉일
 > `release`는 복합 명사 형태로 자주 사용되므로 출제 표현을 외워 두자.
 
 ---
@@ -239,7 +239,7 @@
 #### **`n`** 연장, 연기; (전화의) 내선
 > The manager granted an **extension** of the deadline.  
 > 그 관리자는 마감일 연기를 허락했다.
-> 
+
 > To reach Mr. Jackson, call our main office and press **extension** number 727.  
 > Mr. Jackson에게 연락하시려면, 본사로 전화하셔서 내선번호 727을 누르십시오.
 
@@ -319,7 +319,7 @@
 > 그 회사의 연례 총회는 보통 전 세계로부터 800명의 직원들을 끌어들인다.
 
 #### 💡 토익 포인트
-`draw + (praise / inspiration) + from 사람` : ~로부터 칭찬을 / 격려를 이끌어내다
+`draw + [praise / inspiration] + from 사람` : ~로부터 칭찬을 / 격려를 이끌어내다
 > `draw`는 `praise`, `inspiration` 등 칭찬, 격려를 의미하는 명사와 사용된다.
 
 사람들을 어디로 오게 하거나 집중하게 하다라는 의미일 때 `draw`는 `attract`로 바꾸어 쓸 수 있다.
